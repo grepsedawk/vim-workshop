@@ -1,0 +1,15 @@
+
+
+                        =================
+                        =   Config!!!   =
+                        =================
+
+          - Make a repository under your user named .dotfiles
+            - Optional, fork grepsedawk/.dotfiles (skips some steps)
+          - Add this file https://bit.ly/3nJLheP to your repo
+            - This allows you to use the standard .vimrc with nvim
+              making the 2 nearly interchangable
+          - Add an empty .vimrc
+          - Clone to .dotfiles
+          - Symlink dotfiles (script available, manual is okay too!)
+          - Ready to start adding config options
